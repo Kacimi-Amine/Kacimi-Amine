@@ -26,7 +26,8 @@ IT engineering student. Future Software Engineer with a focus on Full-stack Web 
 
 
 
-![Kacimi-Amine's github stats](https://github-readme-stats.vercel.app/api?username=Kacimi-Amine&show_icons=true&line_height=30)
+![Kacimi-Amine's github stats](https://github-readme-stats.vercel.app/api?username=Kacimi-Amine&show_icons=true&line_height=30&theme=cobalt)
+
 
 🌱 Learning all about **Open Source**
 
