@@ -2,7 +2,7 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ### 
 ## It's Kacimi Amine   👨‍💻 here 👋
-IT engineering student. Future Software Engineer with a focus on Full-stack Web development.
+Software Engineer with a focus on Full-stack Web development.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-kacimi/)](https://www.linkedin.com/in/amine-kacimi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/KacimiAmine2)](https://twitter.com/KacimiAmine2)
