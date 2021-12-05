@@ -4,7 +4,8 @@
 ## It's Kacimi Amine   👨‍💻 here 👋
 Software Engineer with a focus on Full-stack Web development.
 
-View my verified achievements on Credly ✅ . ☞ [Link to Credly](https://www.credly.com/users/kacimi-amine/badges)
+
+View my verified achievements on Credly ✅ . ☞  <a href="https://www.credly.com/users/kacimi-amine/badges" target="_blank">Link to Credly</a>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-kacimi/)](https://www.linkedin.com/in/amine-kacimi/)
