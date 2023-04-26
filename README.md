@@ -1,7 +1,7 @@
 
 ### 👋 Hello World !
 ### 
-## It's Kacimi Amine   👨‍💻 here 👋
+## It's <a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/amine-kacimi/en">Amine Kacimi</a> 👨‍💻 here 👋
 Software Engineer with a focus on Full-stack Web development.
 
 
@@ -31,6 +31,7 @@ View my verified achievements on Credly ✅ . ☞ <code> <a href="https://www.cr
 
 
 ![Kacimi-Amine's github stats](https://github-readme-stats.vercel.app/api?username=Kacimi-Amine&show_icons=true&line_height=30&theme=cobalt)
+
 
 
 🌱 Learning all about **Open Source**
