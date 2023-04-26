@@ -1,7 +1,7 @@
 
 ### 👋 Hello World !
 ### 
-## It's <a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/amine-kacimi/en">Amine Kacimi</a> 👨‍💻 here 👋
+## It's <a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/amine-kacimi/en" target="_blank">Amine Kacimi</a> 👨‍💻 here 👋
 Software Engineer with a focus on Full-stack Web development.
 
 
