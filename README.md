@@ -19,11 +19,11 @@ View my verified achievements on Credly ✅ . ☞ <code> <a href="https://www.cr
 **👨🏻‍💻Languages and Tools:** 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 
