@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Amine Kacimi - Software Engineer and AI / Automation Innovator">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0e1a"/>
+      <stop offset="55%" stop-color="#1a1b2e"/>
+      <stop offset="100%" stop-color="#2a2e4a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#bg)"/>
+
+  <!-- decorative rings -->
+  <g fill="none" stroke="#7aa2f7" stroke-width="2" opacity="0.16">
+    <circle cx="1130" cy="70" r="58"/>
+    <circle cx="1200" cy="210" r="95"/>
+    <circle cx="1030" cy="250" r="34"/>
+  </g>
+  <!-- dot grid -->
+  <g fill="#bb9af7" opacity="0.18">
+    <circle cx="980" cy="60" r="3"/><circle cx="1010" cy="60" r="3"/><circle cx="1040" cy="60" r="3"/>
+    <circle cx="980" cy="90" r="3"/><circle cx="1010" cy="90" r="3"/><circle cx="1040" cy="90" r="3"/>
+    <circle cx="980" cy="120" r="3"/><circle cx="1010" cy="120" r="3"/><circle cx="1040" cy="120" r="3"/>
+  </g>
+
+  <!-- accent bar -->
+  <rect x="80" y="92" width="7" height="120" rx="3.5" fill="url(#accent)"/>
+
+  <!-- text -->
+  <text x="112" y="132" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#c0caf5">Amine Kacimi</text>
+  <text x="114" y="178" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#7aa2f7">Software Engineer &amp; AI / Automation Innovator</text>
+  <text x="114" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9aa5ce">Building scalable SaaS &amp; AdTech  ·  Python · LangGraph · Spring Boot · Angular · React</text>
+
+  <!-- location chip -->
+  <rect x="112" y="236" width="150" height="32" rx="16" fill="#7aa2f7" opacity="0.14"/>
+  <text x="132" y="257" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#9ab8ff">Based in Morocco</text>
+</svg>
