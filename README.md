@@ -5,10 +5,8 @@
 
 # Hi, I'm Amine Kacimi 👋
 
-<p align="center"><i>Software Engineer &amp; AI / Automation Innovator — building AI agents &amp; automation workflows and scalable SaaS / AdTech products with Python, LangGraph, Google ADK and n8n, plus full-stack web apps in Java / Spring Boot, Angular and React. Based in Morocco 🇲🇦.</i></p>
-
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=680&lines=Software+Engineer+%26+AI%2FAutomation+Innovator;Building+Scalable+SaaS+%26+AdTech+Solutions;Full-Stack+Web+Developer+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Amine Kacimi — Software Engineer and AI / Automation Innovator from Morocco" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=680&lines=Turning+ideas+into+shipped+products+%F0%9F%9A%80;Automating+the+repetitive+parts+with+AI+%F0%9F%A4%96;Full-stack+web+apps+%2B+AI+agents+%26+workflows;Always+learning%2C+always+building" alt="Amine Kacimi — turning ideas into shipped products, automating with AI, building full-stack web apps and AI agents" />
 </a>
 
 <br/>
