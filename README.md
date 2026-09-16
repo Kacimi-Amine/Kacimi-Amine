@@ -98,16 +98,6 @@ Most of my recent work lives in **private client and company repositories**. Her
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kacimi-Amine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kacimi-Amine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
-
-</div>
-
 <!-- ====================== CONTACT ====================== -->
 ## 🤝 Let's Connect
 
